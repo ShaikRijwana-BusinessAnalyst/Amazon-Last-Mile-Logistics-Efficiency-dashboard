@@ -229,7 +229,7 @@ Using city-level compounding growth rates: `Orders × (1 + Growth Rate)^6`
 **Open to Business analyst, strategy, and BI roles at operations-led organizations.**
 
 [![LinkedIn]](https://www.linkedin.com/in/shaik-rijwana-6a8861290)
-
+[![Gmail]](shaikrijwana54@gmail.com)
 ---
 
 <div align="center">
