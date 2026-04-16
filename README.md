@@ -36,7 +36,7 @@ Last-mile delivery represents the highest-cost, highest-churn segment of e-comme
 
 ## Dashboard Preview
 
-![https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Amazon-Last-Mile-Logistics-Efficiency-dashboard/59ccb4d4dd25705822eb65a741e20e8d8f4c265f/Amazon%20Last-Mile%20Logistics%20Efficiency%20dashboard%20image.png]
+![Amazon Dashboard](https://raw.githubusercontent.com/ShaikRijwana-BusinessAnalyst/Amazon-Last-Mile-Logistics-Efficiency-dashboard/59ccb4d4dd25705822eb65a741e20e8d8f4c265f/Amazon%20Last-Mile%20Logistics%20Efficiency%20dashboard%20image.png)
 > **Navigation Guide:** Use the **City** slicer to drill into individual market dynamics; use the **Tier** slicer to isolate structural patterns across Metro / Tier-1 / Tier-2 cohorts. The Gauge, Treemap, and Line Chart update in real-time to reflect the filtered operational context.
 
 ---
