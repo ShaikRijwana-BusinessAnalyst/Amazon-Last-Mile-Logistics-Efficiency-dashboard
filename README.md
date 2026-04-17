@@ -193,14 +193,14 @@ Using city-level compounding growth rates: `Orders × (1 + Growth Rate)^6`
 
 ## Video Walkthrough
 
-[![Watch the 2-Minute C-Suite Briefing](https://img.shields.io/badge/▶%20Watch%202--Min%20Executive%20Briefing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
+## 🎥 Project Stroytelling [▶️ Watch](https://drive.google.com/file/d/1OcMAim5B5Ndz-GzzbRL0lvSRbZ5uIUrk/view?usp=drivesdk)
 
-| Timestamp | Chapter |
-|-----------|---------|
-| `0:00 – 0:20` | The Margin Battle — Network scale vs. efficiency reality |
-| `0:20 – 0:50` | KPI Architecture — DAX logic powering the Efficiency Score and Gauge |
-| `0:50 – 1:30` | Visual Insights — Donut, Waterfall, Map, and Line Chart findings decoded |
-| `1:30 – 2:00` | The Verdict — 3-city expansion ROI and path to Efficiency Score 55 |
+| Chapter |
+|---------|
+| The Margin Battle — Network scale vs. efficiency reality |
+| KPI Architecture — DAX logic powering the Efficiency Score and Gauge |
+| Visual Insights — Donut, Waterfall, Map, and Line Chart findings decoded |
+| The Verdict — 3-city expansion ROI and path to Efficiency Score 55 |
 
 ---
 
